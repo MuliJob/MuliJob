@@ -7,9 +7,9 @@ Software Engineer | Full-stack Developer
 I'm a passionate and dedicated Software Engineer with a knack for solving complex problems through code. I thrive in the intersection of creativity and technology, where I design and develop innovative solutions that not only meet functional needs but also provide an intuitive user experience. My journey into the world of software engineering began with a fascination for technology and how it can impact the world. Over the years, I’ve honed my skills across various programming languages, frameworks, and tools. What started as a hobby has grown into a full-fledged passion, driving me to constantly learn and explore new technologies.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [My Portfolio](http://muli-munyoki.onrender.com/)
+* 🖥️  See my portfolio at [My Portfolio](https://muli-munyoki.onrender.com/)
 * ✉️  You can contact me at [jobmunyoki59@gmail.com](mailto:jobmunyoki59@gmail.com)
-* 🚀  I'm currently working on [Store Inventory System](http://github.com/MuliJob/inventory_management_system)
+* 🚀  I'm currently working on [Store Inventory System](https://github.com/MuliJob/inventory_management_system)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on any idea or project whether web or mobile application
 * ⚡  I'm just a regular software engineer... definitely not secretly a superhero. (But if my code suddenly starts saving lives, you didn’t hear it from me.)
