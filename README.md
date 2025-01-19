@@ -1,9 +1,6 @@
 Hi 👋 My name is Muli Munyoki
 =============================
 
-Software Engineer | Full-stack Developer
-----------------------------------------
-
 I'm a passionate and dedicated Software Engineer with a knack for solving complex problems through code.
 
 * 🌍  I'm based in Kenya
