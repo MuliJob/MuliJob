@@ -4,7 +4,7 @@ Hi 👋 My name is Muli Munyoki
 I'm a passionate and dedicated Software Engineer with a knack for solving complex problems through code.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [My Portfolio](https://muli-munyoki.onrender.com/)
+* 🖥️  See my portfolio at [My Portfolio](https://mulimunyoki.vercel.app/)
 * ✉️  You can contact me at [jobmunyoki59@gmail.com](mailto:jobmunyoki59@gmail.com)
 * 🚀  I'm currently working on [Fruitable](https://github.com/MuliJob/fruitables)
 * 🧠  I'm learning Flutter
