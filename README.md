@@ -1,4 +1,4 @@
-Hi 👋 My name is Muli Munyoki
+Hi 👋 am Muli Munyoki
 =============================
 
 I'm a passionate and dedicated Software Engineer with a knack for solving complex problems through code.
