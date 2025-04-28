@@ -1,7 +1,7 @@
 Hi 👋 am Muli Munyoki
 =============================
 
-I'm a passionate and dedicated Software Engineer with a knack for solving complex problems through code.
+As a Software Engineer, I consistently ensure timely delivery of projects in alignment with established deadlines.
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [My Portfolio](https://mulimunyoki.vercel.app/)
