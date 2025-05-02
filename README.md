@@ -7,7 +7,7 @@ As a Software Engineer, I consistently ensure timely delivery of projects in ali
 * 🖥️  See my portfolio at [My Portfolio](https://mulimunyoki.vercel.app/)
 * ✉️  You can contact me at [jobmunyoki59@gmail.com](mailto:jobmunyoki59@gmail.com)
 * 🚀  I'm currently working on [Fruitable](https://github.com/MuliJob/fruitables)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Cloud Computing
 * 🤝  I'm open to collaborating on any idea or project whether web or mobile application
 * ⚡  I'm just a regular software engineer... definitely not secretly a superhero. (But if my code suddenly starts saving lives, you didn’t hear it from me.)
 
